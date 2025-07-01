@@ -5,3 +5,4 @@ with open('plik.json', 'r') as f:
 
 print(data)
 print("Something to display... ")
+print("Something to display... 2 ")
